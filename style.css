@@ -1,0 +1,39 @@
+.collection {
+    border: solid 5px orange;
+    margin: 10px;
+    height: 250px;              
+    transition: height 2s;
+}
+
+.logo {
+    display: inline-block;
+    width: 150px;
+    height: 50px;
+    border: dashed 1px orange;
+    border-radius: 10%;
+}
+
+p {
+    display: inline-block;
+    vertical-align: text-bottom;
+}
+
+button {
+    position: absolute;
+    right: 25px;
+}
+
+.displayed {
+    position: relative;
+    width: 325px;
+    height: 180px;
+}
+
+.thumb-bar img {
+    display: block;
+    width: 18.43%;
+    float: left;
+    cursor: zoom-in;
+    height: 75px;
+    visibility: hidden;
+}
