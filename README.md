@@ -13,4 +13,4 @@ https://area98.it/home
 Localization update:
 initially index.html was only available in Bulgarian so I used the idea for a php language switcher from the demo here:
 https://dcblog.dev/how-to-create-a-language-changer-with-php
-and now index.php makes the web page available in 3 languages - Enlgish, Bulgarian and Italian.
+and now index.php makes the web page available in 3 languages - English, Bulgarian and Italian.
